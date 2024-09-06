@@ -26,7 +26,7 @@ function AxiosParcial03() {
           <ListItem bottomDivider>
             <ListItem.Content>
               <ListItem.Title style={styles.listItemTitle}>
-                {item.name}
+                {item.username}
               </ListItem.Title>
             </ListItem.Content>
           </ListItem>
