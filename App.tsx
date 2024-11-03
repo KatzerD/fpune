@@ -31,7 +31,7 @@ import AvatarBasic from './src/ejercicios/components/react-native-elements/Avata
 import PropsEjemplo from './src/ejercicios/components/react-native-elements/PropsEjemplo';
 import AxiosEjemplo from './src/ejercicios/components/react-native-elements/AxiosEjemplo';
 import AsyncStorageEjemplo from './src/ejercicios/components/react-native-elements/AsyncStorageEjemplo';
-import Router from './src/primer-parcial/Router';
+import Router from './src/segundo-parcial/Router';
 
 const Stack = createNativeStackNavigator();
 
